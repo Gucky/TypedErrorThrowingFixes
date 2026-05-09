@@ -1,0 +1,6 @@
+interface:
+  display_name: "Typed Error Throwing Fixes"
+  short_description: "Fix Swift typed throws edge cases"
+  default_prompt: "Use $typed-error-throwing-fixes to review and fix Swift typed-throws and concurrency edge cases."
+  icon_small: "./assets/typed-error-throwing-fixes.png"
+  icon_large: "./assets/typed-error-throwing-fixes.png"
